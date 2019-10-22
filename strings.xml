@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Plane</string>
+    <string-array name="airport_name">
+        <item>IKT</item>
+        <item>BKK</item>
+        <item>ABA</item>
+        <item>ADH</item>
+        <item>AMV</item>
+        <item>BAX</item>
+        <item>BQJ</item>
+        <item>BGN</item>
+        <item>UUA</item>
+        <item>VVO</item>
+        <item>VOG</item>
+        <item>GDZ</item>
+        <item>ERG</item>
+        <item>IAA</item>
+        <item>KGP</item>
+        <item>ESL</item>
+    </string-array>
+</resources>
